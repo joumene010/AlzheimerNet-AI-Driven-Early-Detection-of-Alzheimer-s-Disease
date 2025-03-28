@@ -1,6 +1,6 @@
 # **AlzheimerNet: AI-Driven Early Detection of Alzheimer’s Disease**  
 
-![Streamlit Interface Demo](assets/streamlit_demo.png)  
+
 
 ## **📌 Overview**  
 AlzheimerNet is a deep learning-based system designed to classify brain MRI scans for early detection of **Alzheimer’s Disease (AD)**. The project includes **two versions**:  
